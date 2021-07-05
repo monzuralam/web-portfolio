@@ -137,3 +137,9 @@ section{
     border-image: linear-gradient(180deg, blue,cyan);
     border-image-slice: 1;
 }
+
+footer p{
+    text-align: center;
+    font-size: 14px;
+    padding: 25px 0;   
+}
